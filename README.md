@@ -1,6 +1,6 @@
 # 🚀 Automated Personal Finance & Investment Tracker
 
-**Automated Personal Finance & Investment Tracker** adalah sistem analisis data investasi *end-to-end* yang dirancang untuk mengotomatisasi seluruh siklus hidup data—mulai dari ekstraksi data pasar secara *real-time*, pemrosesan berbasis cloud, hingga visualisasi interaktif.
+**Automated Personal Finance & Investment Tracker** adalah sistem analisis data investasi *end-to-end* yang dirancang untuk mengotomatisasi seluruh siklus hidup data mulai dari ekstraksi data pasar secara *real-time*, pemrosesan berbasis cloud, hingga visualisasi interaktif.
 
 Sistem ini menghilangkan kebutuhan intervensi manual dalam pemantauan portofolio dengan memanfaatkan *orchestration* berbasis waktu untuk memastikan data selalu mutakhir bagi pengguna.
 

@@ -1,4 +1,7 @@
 <img width="1527" height="881" alt="Screenshot 2026-05-11 112300" src="https://github.com/user-attachments/assets/429411d9-1f1b-4c2d-b5b2-a7e755e86e34" />
+<img width="1501" height="814" alt="Screenshot 2026-05-11 202556" src="https://github.com/user-attachments/assets/8e781a99-9304-4f66-b02e-1940d5b8ab70" />
+<img width="1464" height="711" alt="Screenshot 2026-05-11 202605" src="https://github.com/user-attachments/assets/6152bdf6-bdc3-48e1-8499-e36742661fe3" />
+<img width="1488" height="842" alt="Screenshot 2026-05-11 203119" src="https://github.com/user-attachments/assets/8c2cb61c-4154-4c68-88c1-d5de90b1eff5" />
 
 ## 🚀 Automated Personal Finance & Investment Tracker
 

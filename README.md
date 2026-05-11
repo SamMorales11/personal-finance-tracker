@@ -1,3 +1,4 @@
+<img width="1527" height="881" alt="Screenshot 2026-05-11 112300" src="https://github.com/user-attachments/assets/429411d9-1f1b-4c2d-b5b2-a7e755e86e34" />
 # 🚀 Automated Personal Finance & Investment Tracker
 
 **Automated Personal Finance & Investment Tracker** adalah sistem analisis data investasi *end-to-end* yang dirancang untuk mengotomatisasi seluruh siklus hidup data mulai dari ekstraksi data pasar secara *real-time*, pemrosesan berbasis cloud, hingga visualisasi interaktif.

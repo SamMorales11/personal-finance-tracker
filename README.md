@@ -58,5 +58,10 @@ Proyek ini dibangun dengan prinsip modularitas untuk memisahkan antara pengambil
 Clone repositori ini dan instal seluruh dependensi yang diperlukan:
 ```bash
 git clone [https://github.com/SamMorales11/personal-finance-tracker.git](https://github.com/SamMorales11/personal-finance-tracker.git)
+```
+```bash
 cd personal-finance-tracker
+```
+```bash
 pip install -r requirements.txt
+```
